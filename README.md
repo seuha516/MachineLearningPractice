@@ -1,2 +1,2 @@
-# MachineLearning_Practice
+# MachineLearningPractice
 '혼자 공부하는 머신러닝' 책으로 배우는 머신러닝
